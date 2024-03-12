@@ -1,2 +1,3 @@
-# Javascript-1
+# Javascript
+
 The Journey of starting javascript 
