@@ -1,3 +1,14 @@
 const accountId =  233344
 
-let accountEmali = "muskan2003@gmail.com"
+let accountEmail = "muskan2003@gmail.com"
+
+var accountCity = "Jaipur"
+
+accountPasssword = "12345"
+
+
+// accountId = 100023
+// console.log(accountId)
+
+console.table([accountId,accountEmail, accountCity,accountPasssword])
+
